@@ -4,7 +4,7 @@ mkdir /opt/stalker && cd /opt/stalker wget https://raw.githubusercontent.com/syb
 
 ========================
 
-Контейнер содержит только окружение, актуальную версию Stalker Middleware можно скачать и положить в /var/www/stalker_portal/ или выполнить скрипт, который сам скачает и развернет приложение:
+Контейнер содержит только окружение, актуальную версию Stalker Middleware можно скачать и положить в /var/www/stalker_portal/ или выполнить скрипт, который сам скачает и развернет приложение(ministra-v5.6.1):
 
 docker exec -it stalker_portal_1 /opt/deploy.sh
 
