@@ -1,0 +1,22 @@
+version: '2'
+
+services:
+  portal:
+    image: klyushkov/stalker_env:latest
+    ports:
+      - "8088:80"
+    links:
+      - db
+    volumes:
+      - /opt/stalker/stalker_portal:/var/www/stalker_portal
+    depends_on:
+      - db
+  db:
+    image: mysql:5.7
+    environment:
+      - MYSQL_ROOT_PASSWORD=rootpass
+      - MYSQL_DATABASE=stalker_db
+      - MYSQL_USER=stalker
+      - MYSQL_PASSWORD=stalkerpass
+    volumes:
+      - /opt/stalker/mysql_data:/var/lib/mysql
