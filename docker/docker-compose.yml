@@ -4,7 +4,7 @@ services:
   portal:
     image: sybdata/portal
     ports:
-      - "8088:80"
+      - "80:80"
     links:
       - db
     volumes:
