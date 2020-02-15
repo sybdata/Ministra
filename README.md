@@ -1,3 +1,14 @@
+# Docker
+
+mkdir /opt/stalker && cd /opt/stalker wget https://raw.githubusercontent.com/sybdata/Ministra/master/docker/docker-compose.yml docker-compose up -d
+
+========================
+
+Контейнер содержит только окружение, актуальную версию Stalker Middleware можно скачать и положить в /var/www/stalker_portal/ или выполнить скрипт, который сам скачает и развернет приложение:
+
+docker exec -it stalker_portal_1 /opt/deploy.sh
+
+
 # Ministra Middleware Installation Script
 
 This script is designed for installing Ministra 5.6.0 on a clean Ubuntu 16.04 system.
