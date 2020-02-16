@@ -32,6 +32,8 @@ docker-compose up -d
 ```
 docker exec -it stalker_portal_1 /opt/deploy.sh
 ```
+Ждем, пока скрипт выполнится. У меня это занимает около 4-х минут (что ж там за это время происходит?). Готово, админ панель Сталкера доступна по адресу:
+### http://ip/stalker_portal/ Заходим по стандартному логину/паролю: admin/1.
 
 # Установка без виртуализации и контейнеров
 ## Ministra Middleware Installation Script
