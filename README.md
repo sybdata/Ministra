@@ -20,7 +20,7 @@ docker-compose version 1.25.3, build 1110ad01
 
 Создадим рабочую папку, в которой будет у нас жить Stalker и скачаем docker-compose файл:
 ```
-mkdir /opt/stalker && cd /opt/stalker wget https://raw.githubusercontent.com/sybdata/Ministra/master/docker/docker-compose.yml
+mkdir /opt/stalker && cd /opt/stalker && wget https://raw.githubusercontent.com/sybdata/Ministra/master/docker/docker-compose.yml
 ```
 Запускаем Stalker:
 ```
