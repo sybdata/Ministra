@@ -24,7 +24,7 @@ mkdir /opt/stalker && cd /opt/stalker && wget https://raw.githubusercontent.com/
 ```
 Запускаем Stalker:
 ```
-cd /opt/stalker && docker-compose up -d
+docker-compose up -d
 ```
 ========================
 
