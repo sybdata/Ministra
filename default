@@ -1,0 +1,26 @@
+server {                                                                                                                                                                                                    
+    listen       85;                                                                                                                                                                                        
+    server_name  localhost;                                                                                                                                                                                 
+                                                                                                                                                                                                            
+    location / {                                                                                                                                                                                            
+        proxy_pass http://127.0.0.1:88/;                                                                                                                                                                    
+        proxy_set_header Host $host:$server_port;                                                                                                                                                           
+        proxy_set_header X-Real-IP $remote_addr;                                                                                                                                                            
+    }                                                                                                                                                                                                       
+                                                                                                                                                                                                            
+    location ~* \.(htm|html|jpeg|jpg|gif|png|css|js)$ {                                                                                                                                                     
+        root /var/www;                                                                                                                                                                                      
+        expires 30d;                                                                                                                                                                                        
+    }
+    root /var/www;
+    location ^~ /player {
+    	  root /var/www/player;
+    	  index index.php;
+    	  rewrite ^/player/(.*) /player/$1 break;
+    	  proxy_pass http://127.0.0.1:88/;
+    	  proxy_set_header Host $host:$server_port;
+    	  proxy_set_header X-Real-IP $remote_addr;
+    }
+
+
+}
