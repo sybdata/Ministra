@@ -33,7 +33,8 @@ cd /opt/stalker && docker-compose up -d
 docker exec -it stalker_portal_1 /opt/deploy.sh
 ```
 
-# Ministra Middleware Installation Script
+# Установка без виртуализации и контейнеров
+## Ministra Middleware Installation Script
 
 This script is designed for installing Ministra 5.6.0 on a clean Ubuntu 16.04 system.
 
