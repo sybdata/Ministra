@@ -1,0 +1,1151 @@
+#EXTM3U deinterlace=1 m3uautoload=1 url-tvg="http://iptvx.one/EPG" tvg-rec="3"
+#EXTINF:-1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2018/10/d80336151a35f8fcf09abf0a79a678c4.jpg",-zabava 10.07 14:14 http://denms.ru
+http://dl.dropbox.com/s/7wj41uz2yxsmo6z/iptv.mp4
+#EXTINF:0 tvg-id="shant-music-hd" group-title="Shant",Shant music HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NIQU5UTVVTSUNIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="shant-news-hd" group-title="Shant",Shant news HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NIQU5UTkVXU0hEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="shant-premium-hd" group-title="Shant",Shant premium HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NIQU5UUFJFTUlVTUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="shant-serial-hd" group-title="Shant",Shant serial HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NIQU5UU0VSSUFMSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",Ani
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FOSS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Baby TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JBQllUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Boomerang
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JPT01FUkFORy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Cartoon Network HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NBUlRPT05fTkVUV09SS1NIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Disney Channel
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU05FWS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Gulli Girl
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0dVTExJL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Детские",JimJam
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pJTUpBTS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Детские",Nick Jr.
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05JQ0tKVU5JT1IvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",Nickelodeon HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9OSUNLRUxPREVPTkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Детские",Nickelodeon
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05JQ0tFTE9ERU9OL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Детские",Tiji
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RJSkkvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="v-gostiax-u-skazki" group-title="Детские",В Гостях у сказки
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZHT1NUWUFIVVNLQVpLSS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Детский мир
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RFVFNLSUpNSVIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",Карусель
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tBUlVTRUwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",МУЛЬТ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VTFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",Малыш
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BTFlTSFRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Детские",Мама
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVElESVRZQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tlum-hd" group-title="Детские",Мульт HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RMVU1IRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Мультиландия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VTFRJTUFOSUEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",О!
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX08vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",Радость моя
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JBRE9TVE1PWUEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Детские",Смайлик
+http://172.18.0.7:7676/rmtv/aHR0cHM6Ly96YWJhdmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9TTUFJTElLSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="sts-kids-hd" group-title="Детские",СТС Kids
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUU0tJRFNIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Детские",Уникум
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RFVFNLSUovdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Кухня" tvg-name="Food_Network",Food Network HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9GT09ESEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Кухня" tvg-name="Food_Network",Food Network
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9GT09ESEQvYncyMDAwMDAwL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Кухня" tvg-name="ЕДА",Еда Премиум
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VEQUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Кухня" tvg-name="ЕДА",Еда
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VEQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Кухня" tvg-name="Кухня_ТВ",Кухня ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tVSE5ZQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="Fashion TV HD" group-title="Мода",Fashion 4К
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZBU0hJT040S19ITFMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="world-fashion-channel" group-title="Мода",World Fashion Channel HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1dGQ0hEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Мужские",АВТО24 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FWVE8yNEhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Авто плюс
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FVVE9QTFVTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Диалоги о рыбалке HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJQUxPUllCSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Дикая охота HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJS0FZQU9IT1RBSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Дикая рыбалка HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJS0FZQVJZQkFMS0FIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Дикий
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJS0lZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Драйв
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RSSVZFL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Мужской
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VWkhTS09ZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Оружие
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1dFQVBPTi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Охота и рыбалка
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09IT1RBSVJZQkFMS1MvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Мужские",Охотник и рыболов HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09IT1ROSUtJUllCT0xPVkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="russky-ekstrim" group-title="Мужские",Русский экстрим
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQU5FWFRSRUFNL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="texno-24" group-title="Мужские",Техно 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzI0VEVITk8vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="1hd" group-title="Музыка",1 HD Music Television
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzFIRE1VU0lDVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",AIVA
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FJVkFIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Bridge TV Classic
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JSSURHRVRWQ0xBU1NJQy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Bridge TV HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JSSURHRUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Bridge TV Hits
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JSSURHRVRWREFOQ0UvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Bridge TV Русский Хит
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU09OR1RWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Bridge TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JSSURHRVRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Clubbing TV HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NMVUJCSU5HSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Europa Plus TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9QQVBMVVNUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MCM Top
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01DTVRPUC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MTV Dance
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01UVkRBTkNFL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="mtv-russia" group-title="Музыка",MTV HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01UVkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MTV Hits
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01UVkhJVFMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MTV Live HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19NVFZMSVZFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MTV Rocks
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01UVlJPQ0tTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Музыка",MTV Russia
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Mezzo Live HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9NRVpaT0xJVkVIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Mezzo
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01FWlpPL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="musicbox" group-title="Музыка",Music Box Gold
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VU0lDQk9YVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Music Box RU HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQU5fTVVTSUNCT1hIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="ru-tv" group-title="Музыка",RU TV HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVVFZIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Stingray iConcerts HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0lDT05DRVJUU0hEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="vh1-classic" group-title="Музыка",VH1 Classic
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZIMUNMQVNTSUMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="vh1-european" group-title="Музыка",VH1 European
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZIMUVVUk9QRUFOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="zhara" group-title="Музыка",Жара HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pBUkFIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="la-minor" group-title="Музыка",Ля минор
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FNT0xML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Муз ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VWlRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="Музыка Первого" group-title="Музыка",Музыка Первого
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VWllLQVBFUlZPR08vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",Мультимузыка
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUUkFOQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Музыка",О2ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX08yVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Музыка",О2ТВ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX08yVFZIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tnt-music" group-title="Музыка",ТНТ MUSIC
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FPTkUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="shanson-tv" group-title="Музыка",Шансон ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NIQU5TT05UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="6005996780" group-title="Новостные",360° Новости
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzM2ME5FV1NIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="BBC_World",BBC World News
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JCQ1dPUkxETkVXUy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="cnn" group-title="Новостные",CNN International
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NOTl9JTlRFUk5BVElPTkFML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="deutsche-welle-de" group-title="Новостные",Deutsche Welle
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RFVVRTQ0hFV0VMTEUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="France_24",France 24 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZSQU5DRTI0SEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="vmeste-rf" group-title="Новостные",Вместе-РФ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NPVkVURkVERVJBVFNJSS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="euronews",Евроновости
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9ORVdTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="Известия",Известия HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19JWlZFU1RJWUFIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="ЛДПР_ТВ",ЛДПР ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0xEUFIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="МИР_24",Мир 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01JUjI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="РБК",РБК
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JSQy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Новостные" tvg-name="Россия_24",Россия 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQTI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="360-int" group-title="Познавательные" tvg-shift=+2,360° HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BPRE1PU0tPVklFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="360-int" group-title="Познавательные" tvg-shift=+2,360°
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BPRE1PU0tPVklFL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Animal_Planet_HD",Animal Planet HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19BTklNQUxQTEFORVRIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Animal_Planet",Animal Planet
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FOSU1BTFBMQU5FVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="DTX",DTX HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RUWEhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Da_Vinci",Da Vinci Learning
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RBVklOQ0lMRUFSTklORy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Discovery_HD",Discovery Channel HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9ESVNDT1ZFUllDSEFOTkVMSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Discovery_Channel",Discovery Channel
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU0NPVkVSWUNIQU5ORUwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="discovery-science",Discovery Science HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9ESVNDT1ZFUllTQ0lFTkNFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="English_Club_TV",English Club TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VOR0xJU0hDTFVCSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",Galaxy TV HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RBSU5ZR0FMQUtUSUtJSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="H2_HD",H2 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0gySEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="History_HD",History HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9IREhJU1RPUlkvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="ID_Investigation_Discovery",ID Investigation Discovery HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0lEWFRSQUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="ID_Investigation_Discovery",ID Investigation Discovery
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU0NPVkVSWUlOVkVTVElHQVRJT04vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="Love Nature 4K" group-title="Познавательные",Love Nature 4K
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0xPVkVOQVRVUkU0S19ITFMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Museum_HD",Museum HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VU0VVTUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="nhk-world" group-title="Познавательные",NHK World
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05ISy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="nano-hd",Nano HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05BTk9IRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Nat_Geo_Wild_HD",Nat Geo Wild HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19OQVRHRU9XSUxESEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Nat_Geo_WILD",Nat Geo Wild
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05BVEdFT1dJTEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="National_Geographic_HD",National Geographic HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9OR0NIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="National_Geographic",National Geographic
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05BVEdFTy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",Ocean TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09DRUFOVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="rtg-hd" group-title="Познавательные",RTG HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JUR0hEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="rtd-hd" group-title="Познавательные",RTД HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JUREhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="russia-today" group-title="Познавательные",Russia Today
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",TLC HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9UTENIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="TLC",TLC
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RMQy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",TV BRICS
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JSSUNTVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="travel-channel" group-title="Познавательные",Travel Channel HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RSQVZFTENIQU5ORUxIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="travel-adventure" group-title="Познавательные",Travel+ Adventure HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMl9UUkFWRUxDSEFOTkVMSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="viasat-explore" group-title="Познавательные",Viasat Explore HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZJQVNBVEVYUExPUkVIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="viasat-history" group-title="Познавательные",Viasat History HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZJQVNBVEhJU1RPUllIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="viasat-nature",Viasat Nature
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZJQVNBVE5BVFVSRUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",Viasat Nature/History HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19WSUFTQVROQVRVUkVISVNUT1JZSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="zoopark",Zooпарк
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pPT1BBUksvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="myzen-tv",myZen.tv HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9NWVpFTlRWSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Бобер",Бобёр
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JPQkVSL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Большая_Азия",Большая Азия HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JJR0FTSUFIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-name="Время",Время
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZSRU1ZQURJQi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Глазами туриста
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0dMQVpBTUlUVVJJU1RBSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Доктор",Доктор
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzI0RE9DL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="zhivaya-planeta" group-title="Познавательные",Живая планета
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pJVkFZQVBMQU5FVEEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="zhivaya-priroda" group-title="Познавательные",Живая природа
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pISVZBWUFQUklST0RBSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="zagorodnaya-zhizn" group-title="Познавательные",Загородная жизнь HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pBR09ST0ROQVlBWkhJWk5IRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="zdorovoe-tv" group-title="Познавательные",Здоровое ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pET1JPVk9FVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="История",История
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0lTVE9SSVlBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Морской",Морской HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01PUlNLT1lIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Планета_HD",Моя Планета HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0lRSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Моя_Планета",Моя планета
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01ZUExBTkVUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",Наука
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05BVUtBMjAvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные",Первый Вегетарианский HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BFUlZZSlZFR0VUQVJJQU5TS0lKSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Первый_образовательный",Первый образовательный
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BFUlZZSk9CUkFaT1ZBVEVMTllKL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Победа",Победа HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BPQkVEQUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Победа",Победа
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BPQkVEQUhEL2J3MjAwMDAwMC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Поехали!,Поехали! HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BPRUhBTElIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Просвещение",Просвещение
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BST1NWRVNDSEVOSUUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Познавательные" tvg-name="Пес_и_Ко",Пёс и Ко
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BFU0lLTy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tnomer" group-title="Познавательные",Тномер
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROT01FUi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="usadba" group-title="Познавательные",Усадьба
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1VTQURCQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",2x2
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzJYMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",HGTV HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0hHVFZIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Spike HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NQSUtFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Ultra HD cinema (4k)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1VMVFJBSERDSU5FTUFfSExTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Ultra HD cinema (FHD)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1VMVFJBSERDSU5FTUFfSExTL2J3NjAwMDAwMC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Анекдот ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FORUtET1RUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Восток ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZPU1RPS1RWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Жар Птица
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pBUlBUSVpBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Живи!
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0pJVkkvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",КВН ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tWTi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Калейдоскоп ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tBTEVKRE9TS09QVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",КлючTV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tFWS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",О кино!
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09LSU5PL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Пятница!
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BZQVROSVpaQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",РЕН ТВ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JFTlRWSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",РЕН ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JFTlRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="sts-love" group-title="Развлекательные",СТС Love
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUU0xPVkUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="sts" group-title="Развлекательные",СТС
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUUy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="sarafan" group-title="Развлекательные",Сарафан
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9TQVJBRkFOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="super" group-title="Развлекательные",Супер
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NVUEVSL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tv3-ru" group-title="Развлекательные",ТВ 3
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWMy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Развлекательные",ТНТ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVEhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tnt" group-title="Развлекательные",ТНТ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tnt4" group-title="Развлекательные",ТНТ4
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVDQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="tayna" group-title="Развлекательные",Тайна
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RBSU5BL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="teatr" group-title="Развлекательные",Театр HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RIRUFURVJIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="telekafe" group-title="Развлекательные",ТелеКафе
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RFTEVLQUZFL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tochka-tv" group-title="Развлекательные",Точка ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RPQ0hLQVRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Че
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BFUkVUWi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Развлекательные",Эхо TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VDSE9UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="yu" group-title="Развлекательные",Ю
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1UvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",12 канал (Омск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1vbXNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfT01TS18xMkNIQU5ORUwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",26 регион (Ставрополь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1zdGF2ci1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM18yNi1SRUdJT04vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="2na2-pl2" group-title="Регионы",2x2 (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzJYMl8yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="2na2-pl4" group-title="Регионы",2x2 (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzJYMl80L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="2na2-pl7" group-title="Регионы",2x2 (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzJYMl83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",31ТВ (Челябинск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtY2hlbC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfMzFUVktfQ0hFTC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",360° (Тула)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXR1bGEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX1RVTEFfVFVMQTI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",4 канал
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF80Q0hfRUtUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",41 Регион HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MxNDEzMS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9LQU1fNDFSRUdfT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="5kanal-ua" group-title="Регионы",5TV (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzVUVl80L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",8 канал (Владивосток)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5MTAzMC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9WTERfT1RUOEtBTkFML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",8 канал Красноярский край
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9TSUJfS1JTS184Q0hBTk5FTC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",8 канал Новосибирск
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1uc2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9OU0tfOENIQU5ORUwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="s1-surgut" group-title="Регионы",C1 HD (Сургут)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtc3VyLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9DMV9VUkFMX1NVUi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",CCTV-4
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NDVFY0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",CGTN Russian
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NHVE5SVVMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",CGTN
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NHVE5FTkcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы" tvg-shift=+4,Disney Channel (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1idWwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfRElTTkVZQ0hBTk5FTC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы" tvg-shift=+7,Disney Channel (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RJU05FWV83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Dorama
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RPUkFNQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="russia-today" group-title="Регионы",Russia Today HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9SVFRWSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",TMTV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1rem4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX1ZMR19LWk5fVE1UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",TV Губерния (Воронеж)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXZyemgtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX1ZSWkhfVFZHVUJFUk5JWUEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="tv5-monde" group-title="Регионы",TV5Monde
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWNU1PTkRFL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="ugra-travel" group-title="Регионы",UGRA Travel (Сургут)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtc3VyLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9VR1JBX1RSQVZFTC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",UTV (Пермь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtcGVybS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9PVFRfNVRWX1VSQUxJRk9STV9QRVJNL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Univer TV (Казань)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1rem4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDRfT1RUX1ZMR19LWk5fVU5JVkVSL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ZAB.TV (Чита)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1jaGl0YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfU0lCX0NISVRBX1pBQlRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",АТВ (Ставрополь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1zdGF2ci1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9BVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",АТВ (Улан-Удэ)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi11dWRlLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX0FUVk1FRElBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы" tvg-name="Аист",Аист (Иркутск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1pcmstaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9JUktfQUlTVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="altes-chita" group-title="Регионы",Альтес (Чита)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1jaGl0YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9BTFRFUy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Амурское областное телевидение
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M4NDk0Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9CTEFHX0FPVF9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Ариг Ус 24 (Улан-Удэ)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi11dWRlLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfVVVERV9BUklHVVMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="arirang" group-title="Регионы",Ариранг
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9IVlNLX09UVEFSSVJBTkcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Арктик-ТВ (Мурманск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LW11cm0taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfQVJDVElDL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Арктика 24 (Ноябрьск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtbmJrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9BUktUSUtBMjRfVVJBTF9ZTkYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Архыз 24 (Черкесск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1jaGVya3MtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX1NUSF9DSEVSS1NfQVJLSElaMjQxL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Астрахань 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1hc3RyaC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9BU1RSQUtIQU4yNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Афонтово (Красноярск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfS1JTS19BRk9OVE9WTy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы" tvg-name="БСТ",БСТ (Челябинск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtY2hlbC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfQlNUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Барс (Иваново)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWl2YW4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX0lWQU5fQkFSUy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Башкортостан 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M0NTE3Ny5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX0JBU0hLT1JUT1NUQU4yNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",БелРос (ТРО)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RSTy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Беларусь 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JFTEFSVVMyNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Белгород 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWJlbGctaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfQkVMR09ST0QyNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Вариант V (Владимир)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXZsYWQtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfVkFSSUFOVF9WL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Ветта-24 (Пермь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtcGVybS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfVkVUVEEyNF9QRVJNL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="volga" group-title="Регионы",Волга (Н. Новгород)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1ubi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19PVFRfVkxHX05OX1ZPTEdBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Волгоград 1
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC12Z3JhZC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNl9PVFRfU1RIX1ZHUkFEX1ZPTEdPR1JBRDEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Волгоград 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC12Z3JhZC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfU1RIX1ZHUkFEX1ZPTEdPR1JBRDI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Восток 24 (Владивосток)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5MTAzMC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9WTERfVk9TVE9LMjRfT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Вот ТВ (Липетск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWxpcGV0c2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfVk9UVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Время Н
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1ubi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNF9WUkVNWUFOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Вся Уфа
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M0NTE3Ny5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX1ZTWVVGQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ВТК «Аргус»
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXZyemgtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfQVJHVVMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="gis-samara" group-title="Регионы",ГИС (Самара)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYW1hcmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX1ZMR19TQU1BUkFfU0FNQVJBR0lTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ГТ-Ярославль
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXlhcmwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX0NUX1lBUkxfR1RSRUcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="gorodskoy-briansk" group-title="Регионы",Городской (Брянск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWJyeWFuc2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX0JSWUFOU0tfR09ST0RTS09ZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Губерния (Брянск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWJyeWFuc2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX0JSWUFOU0tfQlJHUlVCRVIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="gubernia-samara" group-title="Регионы",Губерния (Самара)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYW1hcmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX1ZMR19TQU1BUkFfR1VCRVJOSUEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Губерния (Хабаровск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9IVlNLX09UVEdVQkVSTllBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Губерния-33 (Владимир)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXZsYWQtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX0NUX1ZMQURfR1VCRVJOSUEzMy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Дагестан (РГВК Дагестан)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1tYWhhY2hrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TVEhfTUFIQUNIS19EQUdFU1RBTi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Девятая волна (Дагестан)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1jaGVya3MtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX1NUSF9DSEVSS1NfQVNWVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Девятка ТВ (Киров)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1raXJvdi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9PVFRfVkxHX0tJUk9WXzlUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="dzenzhinsk-tv" group-title="Регионы",Дзержинск
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1ubi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9EWkVSWkhJTlNLL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="domashny-pl2" group-title="Регионы",Домашний (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RPTUFTSE5ZXzIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="domashny-pl4" group-title="Регионы",Домашний (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1idWwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDRfRE9NQVNITlkvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="domashny-pl7" group-title="Регионы",Домашний (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RPTUFTSE5ZXzcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="domashny" group-title="Регионы" tvg-shift=+8,Домашний (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9EVl9NR0ROX0RPTUFTSE5ZX01HRE5fT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Домашний (VLD)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5MTAzMC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9EVl9WTERfRE9NQVNITllfVkxBRF9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Дон 24 (Ростов-на-Дону)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1yZC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9ET04yNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Евразия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1vcmItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfRVZSQVpJWS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Енисей (Красноярск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfS1JTS19FTklTRVkvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="zvezda-pl2" group-title="Регионы",Звезда (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pWRVpEQV8yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="zvezda-pl4" group-title="Регионы",Звезда (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pWRVpEQV80L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="zvezda-pl7" group-title="Регионы",Звезда (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pWRVpEQV83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="Регионы" tvg-shift=+8,Звезда (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9EVl9NR0ROX1pWRVpEX01HRE5fT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Зима (Чебоксары)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1jaHItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX1ZMR19DSFJfWklNQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Ивановское общественное телевидение
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWl2YW4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX0NUX0lWQU5fSU9UL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Импульс
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtbmJrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX0lNUFVMU19OQksvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="info24" group-title="Регионы",Инфо 24 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwta3JnLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9TSElORk9fVVJBTF9LUkcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",КРАСНОДАР он-лайн
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1rcmRhci1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfU1RIX0tSREFSX0tSQVNOT0RBUi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",КТВ-Город (Воронеж)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXZyemgtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX0NUX1ZSWkhfQ1RWR09ST0QvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="kurgan-ru" group-title="Регионы",КУРГАН.РУ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwta3JnLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9LVVJSVV9VUkFMX0tSRy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Кабардино-Балкария
+http://rt-sth-nalch.9008995170.ngenix.net/hls/CH_R01_OTT_STH_NALCH_KBR/variant.m3u8
+#EXTINF:0 tvg-id="KAZAH" group-title="Регионы",Казань HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tBWkFISEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="KAZAH" group-title="Регионы",Камчатка 1
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MxNDEzMS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9LQU1fUkVOVFZfS0FNVlNFTS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="Регионы" tvg-shift=+2,Карусель (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tBUlVTRUxfMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="karusel" group-title="Регионы" tvg-shift=+4,Карусель (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tBUlVTRUxfNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="karusel-pl7" group-title="Регионы",Карусель (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tBUlVTRUxfNy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="karusel-pl8" group-title="Регионы",Карусель (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X0tBUlVTRUxfTUdETl9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Каскад (Калининград)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LWtsZ3ItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfS0FTS0FEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Катунь 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1idWwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9CVUxfS0FUVU4yNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Колыма-Плюс (Магадан)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9NR0ROX0tPTFlNQV9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Крит-ТВ (Пермь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtcGVybS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9LUklUVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Липецкое время (Липецк)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWxpcGV0c2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX0NUX0xJUEVUU0tfTFZSRU0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",М1 (Самара)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYW1hcmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX1ZMR19TQU1BUkFfTTEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",МЭТР
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy15b2xhLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX01FVFIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Майдан (Казань)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1rem4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDVfT1RUX1ZMR19LWk5fTUFJREFOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Майкопское Телевидение
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1rcmRhci1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNF9PVFRfU1RIX0tSREFSX01BWUtPUC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",МиГ ТВ (Екатеринбург)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9NSUdPUl9VUkFMX0tSQVNOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Мир (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01JUl8yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Мир (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01JUl83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="mir-belogoria" group-title="Регионы",Мир белгородья
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWJlbGctaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX0JFTEdfTUlSX0JMRy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Мордовия-24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zcm5rLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX01PUkRPVklZMjQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="moskva-24" group-title="Регионы",Москва 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW1vcy1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNF9PVFRfTU9TS09WMjQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Москва. Доверие
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW1vcy1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNF9PVFRfRE9WRVJJRS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="muzhskoy" group-title="Регионы" tvg-shift=+6,Мужской (+6)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VWkhTS09ZXzYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="Регионы" tvg-shift=+2,Муз ТВ (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VWlRWXzIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="Регионы" tvg-shift=+4,Муз ТВ (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VWlRWXzQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="muztv" group-title="Регионы" tvg-shift=+7,Муз ТВ (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01VWlRWXzcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НВК Саха
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MzNDM1MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9EVl9ZS1RfTlZDX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ННТВ (Нижний Новгород)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1ubi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9PVFRfVkxHX05OX05OVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Новое время (Радужный)
+http://172.18.0.7:7676/rmtv/aHR0cHM6Ly9ydC11cmFsLXN1ci1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNF9PVFRfUkFEVVpOWUkvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НСК 49 (Новосибирск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1uc2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9OU0tfNDlDSEFOTkVML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТВ (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVl8yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТВ (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVl80L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТВ (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVl83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТВ (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9NR0ROX05UVl9NR0RfT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТВ (Мурманск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LW11cm0taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX05XX01VUk1fTlRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТК
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9IVlNLX09UVE5USy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТН 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1uc2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9OU0tfTlROMjQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТРК Ингушетия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1zdGF2ci1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfU1RIX1NUQVZSX0lOR1VTSEVUSVlBMS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТС-Ирбит (Екатеринбург)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X0lSQklUVkVTVF9FS1QvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",НТС Иркутск
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1pcmstaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9JUktfUkVOVFZJUksvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Народное телевидение Мордовии
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zcm5rLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX05UTS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Национальное телевидение Чувашии
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1jaHItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1ZMR19DSFJfTkFUSU9OQUxUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Наш дом (Пенза)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1wZW56YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19PVFRfVkxHX1BFTlpBX05BU0hET00vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Наши Города (Сургут)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtc3VyLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9OR09SX1VSQUxfU1VSL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="nika-tv" group-title="Регионы",Ника (Калуга)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LWthbHVnYS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9OSUtBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Новгородское областное телевидение
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LW5vdmctaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfTk9WR09ST0RUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Новый век (Тамбов)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXRhbWItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX0NUX1RBTUJfTk9WSVlfVkVLL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Ноябрьск 24 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtbmJrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9OT1kyNF9VUkFMX05PWS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ОРТ Планета
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1vcmItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1JUUExBTkVUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="otv-primorie" group-title="Регионы",ОТВ (+7) (Владивосток)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5MTAzMC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9WTERfT1RUT1RWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ОТВ (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5MTAzMC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVE9UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы" tvg-id="otv-eburg",ОТВ (Екатеринбург)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9PVFZfVVJBTF9FS1QvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="otv-saxalin" group-title="Регионы",ОТВ (Сахалин)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MxNDU1My5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9TTElOX09UVl9TTElOX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="otv-chelyabinsk" group-title="Регионы",ОТВ HD (Челябинск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtY2hlbC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9PVFRfT1RWX1VSQUxfQ0hFTC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ОТС (Новосибирск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1uc2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9OU0tfT1RTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Область 45
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwta3JnLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9PQkxBU1Q0NS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Объектив 59 (Пермь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtcGVybS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwNF9PVFRfT0JKRUNUSVZFNTkvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="osetia-iryston" group-title="Регионы",Осетия Ирыстон HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC12a2F6LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TVEhfVktBWl9JUklTVE9OL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый городской (Киров)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1raXJvdi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19PVFRfVkxHX0tJUk9WX1BFUlZZR09ST0RTS09ZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый городской (Нижний Новгород)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1ubi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfVkxHX05OX1BFUlZZR09ST0RTS09ZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый городской (Омск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1vbXNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfT01TS18xR09ST0RTS09ZL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы" tvg-shift=+1,Первый канал (+1) (Саратов)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYXJhdG92LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9WTEdfU0FSQVRPVl8xVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="pervy-pl2" group-title="Регионы",Первый канал (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzFUVlNEXzIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы" tvg-shift=+3,Первый канал (+3)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1vbXNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9TSUJfT01TS18xVFZfT01TS09CTC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="pervy-pl4" group-title="Регионы",Первый канал (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1idWwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX1NJQl9CVUxfMVRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы" tvg-shift=+5,Первый канал (+5)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1pcmstaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfT1RUX1NJQl9JUktfMVRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="pervy-pl6" group-title="Регионы",Первый канал (+6)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1jaGl0YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM18xVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы" tvg-shift=+7,Первый канал (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MzNDM1MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzXzFUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы",Первый канал (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzFUVlNEXzgvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы",Первый канал (Магадан)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9EVl9NR0ROXzFUVl9NR0ROX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы",Первый канал (+9)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MxNDEzMS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzXzFUVl9QS0FNX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый канал (-2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF8xVFZfRUtUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый канал (-4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzXzFUVl9LUkFTTl9LUkFJL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый канал (-7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9EVl9IVlNLXzFUVl9IQlJfT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="pervy" group-title="Регионы",Первый канал (0)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzFUVlNEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый областной (Орел)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LW9ybC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9QRVJWT0JML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый тульский
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXR1bGEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfUEVSVl9UVUwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Первый ярославский
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXlhcmwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX1lBUkxfTlRNL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Продвижение (Екатеринбург)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9FS0JUVl9VUkFMX0VLVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Продвижение (Омск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1vbXNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX1BST0RWSVpIRU5JRS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Продвижение Сэт (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVFMzVFRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="piatnica-pl2" group-title="Регионы",Пятница! (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZSSURBWV8yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="piatnica-pl4" group-title="Регионы",Пятница! (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BZQVROSVpaQV80L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="piatnica-pl7" group-title="Регионы",Пятница! (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZSSURBWV83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="5kanal-ru-pl2" group-title="Регионы",Пятый канал (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzVUVl8yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="5kanal-ru-pl7" group-title="Регионы",Пятый канал (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzVUVl83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="5kanal-ru" group-title="Регионы" tvg-shift=+8,Пятый канал (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9NR0ROXzVUVl9NR0ROX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rentv-pl2" group-title="Регионы",РЕН ТВ (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JFTlRWXzIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="rentv-pl7" group-title="Регионы",РЕН ТВ (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JFTlRWXzcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",РЕН ТВ (Хабаровск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9IVlNLX1JFTlRWX0hCUl9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",РЕН ТВ 7 Канал (Красноярск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjEzX09UVF9TSUJfS1JTS19SRU5UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",РИМ (Екатеринбург)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9SSU1fVVJBTF9LVVJBTC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",РИФЕЙ-ТВ (Пермь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtcGVybS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9PVFRfUkVOVFZfUkVGRVlfUEVSTS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Регионы" tvg-shift=+1,РОССИЯ 1 (+1) (Саратов)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYXJhdG92LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9WTEdfU0FSQVRPVl9ST1NTSUExL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",РОССИЯ 24 (Магадан)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9NR0ROX1JPU1NJQTI0X01HRE5fT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="rossia-k" group-title="Регионы" tvg-shift=+8,РОССИЯ К (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9NR0ROX1JVU1NLX01HRE5fT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="rts-abakan" group-title="Регионы",РТС (Абакан)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1hYmFrYW4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9BQkFLQU5fUlRTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="rentv" group-title="Регионы" tvg-shift=+8,Рен ТВ (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9NR0ROX1JFTlRWX01HRF9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Репортер 73 (Ульяновск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy11bC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19SRVA3My92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1-pl2" group-title="Регионы",Россия 1 (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQTFfMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Регионы" tvg-shift=+3,Россия 1 (+3)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1vbXNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9TSUJfT01TS19ST1NTSUExX09NU0tPQkwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1-pl4" group-title="Регионы",Россия 1 (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQTFfNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Регионы" tvg-shift=+5,Россия 1 (+5)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1pcmstaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDRfT1RUX1NJQl9JUktfUk9TU0lBMS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1-pl6" group-title="Регионы",Россия 1 (+6)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQTFfNy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Регионы" tvg-shift=+7,Россия 1 (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5MTAzMC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9EVl9WTERfUk9TU0lBMV9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1-pl8" group-title="Регионы",Россия 1 (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9EVl9NR0ROX1JPU1NJQTFfTUdETl9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Регионы" tvg-shift=+9,Россия 1 (+9)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MxNDEzMS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9EVl9LQU1fUk9TU0lBMV9QS0FNX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Регионы",Россия 1 (0)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LWtsZ3ItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDRfT1RUX05XX0tMR1JfUk9TU0lBMS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Россия 1 (Хабаровск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9IVlNLX1JPU1NJQTFfSEJSX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Россия 24 (Хабаровск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9IVlNLX1JPU1NJQTI0X0hCUl9PVFQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="rossia-k" group-title="Регионы" tvg-shift=+2,Россия К (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQUtfMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia-k" group-title="Регионы" tvg-shift=+4,Россия К (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQUtfNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia-k" group-title="Регионы" tvg-shift=+7,Россия К (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQUtfNy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Россия К (Хабаровск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9IVlNLX1JPU1NJQUtfSEFCUlNLX09UVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rostov-papa" group-title="Регионы",Ростов папа
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1yZC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9ST1NUT1ZQQVBBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Рыбинск-40
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXlhcmwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfUllCSU5TSzQwL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",СТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy11bC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19PVFRfVkxHX1VMX1NUQi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",СТВ-Байкал (Улан-Удэ)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi11dWRlLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfVVVERV9TVFZCQVlLQUwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="sts-pl2" group-title="Регионы",СТС (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUU18yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="sts-pl4" group-title="Регионы",СТС (+4)
+http://rt-sib-kem.9008995170.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:0 tvg-id="sts-pl7" group-title="Регионы",СТС (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUU183L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="sts" group-title="Регионы" tvg-shift=+8,СТС (+8)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MyMDQ0MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9NR0ROX1NUU19NR0RfT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",СТС (Кузбасс)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rZW0taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9LRU1fR1RSSy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",СТС (Хабаровск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9EVl9IVlNLX1NUU19IQlJfT1RUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="sts-love-pl2" group-title="Регионы",СТС Love (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUU0xPVkVfMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="sts-love-pl7" group-title="Регионы",СТС Love (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUU0xPVkVfNy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",СТС Прима (Красноярск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjExX09UVF9TSUJfS1JTS19TVFMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",СТС-Мир
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1uc2staHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9OU0tfVFNNL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",СЭТ ТВ (Хабаровск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M5Nzk4Mi5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX09UVF9EVl9IVlNLX09UVFMzVFRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Самара-24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYW1hcmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfU0FNQVJBMjQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Сампо ТВ 360°
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LXB6YXYtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfU0FNUE9UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="saratov-24" group-title="Регионы",Саратов 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYXJhdG92LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9WTEdfU0FSQVRPVl9TQVJBVE9WMjQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="svoyo-tv-stavropol" group-title="Регионы",Своё ТВ (Ставрополь)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1zdGF2ci1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19TVFYtUExVUy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="selenga-tv" group-title="Регионы",Селенга ТВ (Улан-Удэ)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi11dWRlLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfVVVERV9TRUxFTkdBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="skat24" group-title="Регионы",Скат 24 (Самара)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYW1hcmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDRfT1RUX1ZMR19TQU1BUkFfU0tBVDI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Студия-41
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9TVFVESU80MS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="super-pl2" group-title="Регионы",Супер (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NVUEVSXzIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="super-pl4" group-title="Регионы",Супер (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NVUEVSXzQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="super-pl7" group-title="Регионы",Супер (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NVUEVSXzcvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Сургут 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtc3VyLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TVVJHVVQyNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tv3-ru-pl2" group-title="Регионы",ТВ 3 (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWM18yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tv3-ru-pl4" group-title="Регионы",ТВ 3 (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWM180L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tv3-ru-pl7" group-title="Регионы",ТВ 3 (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWM183L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tvcentr-pl2" group-title="Регионы",ТВ Центр (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWQ18yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tvcentr-pl4" group-title="Регионы",ТВ Центр (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWQ180L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tvcentr-pl7" group-title="Регионы",ТВ Центр (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWQ183L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ТВ-7
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1hYmFrYW4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfVFY3L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ТВ-ИН (Челябинск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtY2hlbC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9UVklOX01BR04vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ТВ21+
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LW11cm0taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfVFYyMVBMVVMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ТВК-Домашний (Красноярск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjEzX09UVF9TSUJfS1JTS19ET01BU0hOWS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ТВЦ (Мурманск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LW11cm0taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDRfT1RUX05XX01VUk1fVFZDL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ТК центр (Красноярск)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rcnNrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfS1JTS19DRU5UUktSU04vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ТКР (Рязань)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXJ5YXotaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX0NUX1JZQVpfVEtQL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tnv-planeta" group-title="Регионы",ТНВ-Планета
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtbmJrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9UTlZfUExBTkVUQV9VUkFML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tnv-planeta" group-title="Регионы",ТНВ-Планета
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtbmJrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9UTlZfUExBTkVUQV9VUkFML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tnt-pl2" group-title="Регионы",ТНТ (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVF8yL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tnt-pl4" group-title="Регионы",ТНТ (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVF80L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tnt-pl7" group-title="Регионы",ТНТ (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVF83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tnt4-pl2" group-title="Регионы",ТНТ4 (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVDRfMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tnt4-pl4" group-title="Регионы",ТНТ4 (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVDRfNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tnt4-pl7" group-title="Регионы",ТНТ4 (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ROVDRfNy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tagil-tv-24" group-title="Регионы",Тагил-ТВ (Екатеринбург)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9UQUdJTFRWX1VSQUxfVEFHL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Татарстан-24 (Казань)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1rem4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfT1RUX1ZMR19LWk5fRUZJUjI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tverskoy-prospekt" group-title="Регионы",Тверской проспект
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LWN0LXR2ZXItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfVFZFUlBST1NQL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Теледом
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LXNwYi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9URUxFRE9NL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tivikom" group-title="Регионы",Тивиком (Улан-Удэ)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi11dWRlLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9TSUJfVVVERV9USVZJQ09NL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Толк
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1idWwtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NJQl9CVUxfVE9MSy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Толпар ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M0NTE3Ny5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAyX1RPTFBBUi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Тольятти-24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYW1hcmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfVE9MWVRUSTI0L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tomskoe-vremia" group-title="Регионы",Томское время
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi10b21zay1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9PVFRfU0lCX1RPTVNLX1RPTVNLVlJFTUlBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tumenskoe-vremia" group-title="Регионы",Тюменское время
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtdHVtLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9UVU1WUl9VUkFMX1RVTS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Удмуртия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1pemhzay1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19NWVVETVVSVElBL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Универ-ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1rem4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDRfVU5JVkVSL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="HABAR" group-title="Регионы",Хабар HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0hBQkFSSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="xamdan-kalm24" group-title="Регионы",Хамдан (Элиста)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXN0aC1lbGlzdGEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1NUSF9FTElTVEFfSEFNREFOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="centralnoye-tv" group-title="Регионы",Центрально телевидение
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NFTlRSQUxUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Че (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtY2hlbC1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMl9PVFRfUEVSRVRaL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Че (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXNpYi1rZW0taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDJfUEVSRVRaL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Че (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BFUkVUWl83L3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Шаян ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3M0NTE3Ny5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX1NIQVlOVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Экспресс
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1wZW56YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwMV9FWFBSRVNTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Эфир
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1rem4taHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfRUZJUi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Эхо тв 24 (Екатеринбург)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtZWt0LWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9FQ0hPVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="yu-pl2" group-title="Регионы",Ю (+2)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1VfMi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="yu-pl4" group-title="Регионы",Ю (+4)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1VfNC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="yu-pl7" group-title="Регионы",Ю (+7)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1VfNy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Югорск ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtc3VyLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX1lVR09SU0tUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="yurgan" group-title="Регионы",ЮРГАН (Сыктывкар)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LW53LWtvbWktaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfWVVSR0FOL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ЮТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1jaHItaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDFfT1RUX1ZMR19DSFJfVVRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="yugra" group-title="Регионы",Югра (Тюмень)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtdHVtLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAxX09UVF9VR1JBX1VSQUxfVFVNL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Якутия 24
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MzNDM1MS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjAzX09UVF9EVl9ZS1RfU0FIQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Регионы",Ямал-Регион
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXVyYWwtbmJrLWh0bGl2ZS5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfUjA0X09UVF9ZQU1SRUdfVVJBTF9ZTkYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Регионы",ё
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1zYW1hcmEtaHRsaXZlLmNkbi5uZ2VuaXgubmV0L2hscy9DSF9SMDNfTTEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Домашний",Домашний
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RPTUFTSE5JWS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="zvezda" group-title="Россия",Звезда
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pWRVpEQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Красная_линия",Красная линия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JFRExJTkUvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="mir-premium",Мир Premium
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01JUkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="МИР",Мир
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01JUi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="НТВ_HD",НТВ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVl9IRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="НТВ",НТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="ОТР",ОТР
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09UUi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Первый_HD",Первый канал HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzFUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Первый_канал",Первый канал
+http://172.18.0.7:7676/rmtv/aHR0cDovL3J0LXZsZy1ubi1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1IwM19PVFRfVkxHX05OXzFUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Россия" tvg-name="Пятый_Канал",Пятый канал
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIXzVUVi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Россия",Россия 1 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9SVVNTSUExSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="rossia1" group-title="Россия",Россия 1
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQTEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Россия",Россия К
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQUsvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="tvcentr" group-title="Россия",ТВ Центр
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWQy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 1 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMl9FVVJPU1BPUlRIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 1
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9TUE9SVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 2 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9TUE9SVDJIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 2
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9TUE9SVDIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport 4k
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9TUE9SVDRLX0hMUy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport Gold HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9TUE9SVF9HSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Eurosport Gold
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VVUk9TUE9SVF9HL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Extreme Sports
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0VYVFJFTUVTUE9SVFMvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Fuel TV HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZVRUxIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",M-1 Global
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX00xR0xPQkFML3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Спорт",UFC HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3MzNzYzMC5jZG4ubmdlbml4Lm5ldC9obHMvQ0hfVUZDSERfSExTL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="viasat-sport-hd" group-title="Спорт",Viasat Sport HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNl9WSUFTQVRTUE9SVEhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="viasat-sport" group-title="Спорт",Viasat Sport
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZJQVNBVFNQT1JUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Спорт",КХЛ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMl9LSExIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",КХЛ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tITC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Арена HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9TUE9SVDFIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Боец
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JPRVRaL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Игра HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENISUdSQUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Премьер HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNl9OQVNIRk9PVEJBTExIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Страна
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVlBMVVNQT1JUL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! ТВ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFZIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01BVENIVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Футбол 1 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZVVEJBTEwxSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Футбол 2 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZVVEJBTEwySEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Матч! Футбол 3 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZVVEJBTEwzSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Мир Баскетбола
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01JUkJBU0tFVEJPTEEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Моторспорт ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01PVE9TUE9SVFRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Старт HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUQVJUSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="tochka-otryva" group-title="Спорт",Точка отрыва
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RPQ0hLQU9UUllWQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Футбол HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZVVEJBTExIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Спорт",Футбол
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZVVEJBTEwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",A1 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9IREFNRURJQS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",A2 про любовь HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0EyUFJPTFlCT1YvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",A2
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FNRURJQTIvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Amedia Hit HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FNRURJQUhJVEhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Amedia Hit
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FNRURJQUhJVFNEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Amedia Premium HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9IREFNRURJQVBSRU1JVU0vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Amedia Premium
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0FNRURJQVBSRU1JVU1TRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Bollywood HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JPTExZV09PREhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Bolt HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0JPTFRIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Cinema
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BBUktSQVpWTEVDSEVOSUovdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",FAN HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0ZBTkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",FOX HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMl9GT1hIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",FOX Life HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9GT1hMSUZFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Hollywood HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0hPTExZV09PREhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Hollywood
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0hPTExZV09PRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Paramount Channel HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMl9QQVJBTU9VTlRDSEFOTkVMSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Paramount Channel
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1BBUkFNT1VOVENIQU5ORUwvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Paramount Comedy HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19QQVJBTU9VTlRDT01FRFlIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="shot-tv" group-title="Фильмы",Shot TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NIT1RUVkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="sony-tv" group-title="Фильмы",Sony Channel HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMl9TRVRIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="sony-tv" group-title="Фильмы",Sony Channel
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NFVC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="sony-scifi" group-title="Фильмы",Sony Sci-Fi
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NPTllTQ0lGSS92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="sony-turbo" group-title="Фильмы",Sony Turbo
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NPTllUVVJCTy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="star-cinema" group-title="Фильмы",Star Cinema HD (Россия)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUQVJDSU5FTUFIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="star-family" group-title="Фильмы",Star Family HD (Россия)
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NUQVJGQU1JTFlIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-action" group-title="Фильмы",TV 1000 Action HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWMTAwMEFDVElPTkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000" group-title="Фильмы",TV 1000 HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWMTAwMEhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="tv1000-russkoe-kino" group-title="Фильмы",TV 1000 Русское кино HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWMTAwMFJVU1NLT0VLSU5PSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="tvxxi" group-title="Фильмы",TV XXI
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1RWWFhJL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="vip-serial" group-title="Фильмы",VIP Serial HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNl9WSUFTQVRHT0xGSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="vip-comedy" group-title="Фильмы",ViP Comedy HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19UVjEwMDBDT01FRFlIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="vip-megahit" group-title="Фильмы",ViP Megahit HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwM19UVjEwMDBNRUdBSElUSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="vip-premiere" group-title="Фильмы",ViP Premiere HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNV9UVjEwMDBQUkVNSVVNSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="zee-tv" group-title="Фильмы",Zee TV
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1pFRVRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="vsio-tv" group-title="Фильмы",Всё ТВ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1ZTRVRWSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Дом кино премиум HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RPTUtJTk9QUkVNSVVNSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Дом кино
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0RPTUtJTk8vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Иллюзион+
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1VMTFVTSU9OUExVUy92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Кино ТВ HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tJTk9UVkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Кинокомедия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0NPTUVEWVRWL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Киномикс
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVlBMVVNLSU5PL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Кинопремьера HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tJTk9QUkVNSUVSRUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Киносвидание HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tJTk9EQVRFSEQvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Киносемья HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tJTk9GQU1JTFlIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Киноужас HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tJTk9VWkhBU0hEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Кинохит HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tJTk9ISVRIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Комедия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0tPTUVESUEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Мир сериала
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX01JUlNFUklBTEEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Мужское кино
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVlBMVVNLSU5PU09ZVVovdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Настоящее страшное ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05TVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Наше Новое Кино
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVlBMVVNOT1ZPRUtJTk8vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="nashe-lubimoe" group-title="Фильмы",Наше любимое кино
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0xVQklNT0UvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Ностальгия
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05PU1RBTEdJWUEvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",О!КИНО
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX09LSU5PL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Ретро ТВ
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JFVFJPVFYvdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Родное кино
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX05UVlBMVVNOQVNIRUtJTk8vdmFyaWFudC5tM3U4/playlist.m3u8
+#EXTINF:0 tvg-id="russky-bestseller" group-title="Фильмы",Русский бестселлер
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQU5CRVNUU0VMTEVSL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="russky-detektiv" group-title="Фильмы",Русский детектив
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwNF9SVVNTSUFOREVURUNUSVZFL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="russky-illuzion" group-title="Фильмы",Русский иллюзион
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NJQU5JTExVU0lPTi92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 tvg-id="russky-roman" group-title="Фильмы",Русский роман HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1JVU1NLSVlST01BTkhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Сиеста HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX1NJRVNUQUhEL3ZhcmlhbnQubTN1OA==/playlist.m3u8
+#EXTINF:0 tvg-id="strashnoe-hd" group-title="Фильмы",Страшное HD
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0MwMV9TVFJBU0hOT0VIRC92YXJpYW50Lm0zdTg=/playlist.m3u8
+#EXTINF:0 group-title="Фильмы",Феникс+ кино
+http://172.18.0.7:7676/rmtv/aHR0cDovL3phYmF2YS1odGxpdmUuY2RuLm5nZW5peC5uZXQvaGxzL0NIX0dFTklLU1BMVVNLSU5PL3ZhcmlhbnQubTN1OA==/playlist.m3u8
