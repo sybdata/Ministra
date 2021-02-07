@@ -108,7 +108,7 @@ npm install -g npm@2.15.11
 ln -s /usr/bin/nodejs /usr/bin/node
 
 # Unzip ministra to /var/www
-unzip ministra-5.6.1.zip -d /var/www/
+unzip ministra-5.6.5.zip -d /var/www/
 
 # Run the deployment script
 cd /var/www/stalker_portal/deploy
